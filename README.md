@@ -4,25 +4,28 @@
 # Sobre o projeto
 
 
-Controle Academico é uma aplicação full stack web construída durante o aprendizado das tecnologias de Front e Back,durante meu estágio.
+Controle Acadêmico é uma aplicação full stack web construída durante o meu estágio para aprendizado das tecnologias de Front-end e Back-end.
 
-A aplicação consiste em uma plataforma com fins educacionais de organização e cadastro de estudantes, professores, disciplinas e turmas.
+A aplicação consiste em uma plataforma com fins educacionais, com o objetivo de organizar e cadastrar estudantes, professores, disciplinas e turmas.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1]()
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2]()
 
 
 # Tecnologias utilizadas
 ## Back end
-- Node
-- Redis
-- Jest
+- Back-end desenvolvido em Node.js
+- Banco de dados utilizado: MongoDB
+- Cache utilizado: Redis
 
 ## Front end
-- HTML / CSS / JS 
-- VueJs
+- HTML5 para a estruturação do conteúdo ;
+- CSS3 para a estilização e layout ; 
+- JavaScript ES6 para a lógica e interação do usuário ; 
+- Vue.js para a criação de componentes e gerenciamento do estado da aplicação ;
+- Typescript para o desenvolvimento mais seguro do código ; 
 
 # Como executar o projeto
 
@@ -59,7 +62,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Pedro Henrique Nascimento Rocha 
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/pedrorocha26/
 
