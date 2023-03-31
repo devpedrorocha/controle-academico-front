@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 
-Controle Acadêmico é uma aplicação full stack web construída durante o meu estágio para aprendizado das tecnologias de Front-end e Back-end.
+Controle Acadêmico é uma aplicação full stack web construída durante o meu estágio para aprendizado das tecnologias de Front-end e Back-end. Desenvolvi ela com mais 3 integrantes do estágio mas participei de todas etapas da aplicação
 
 A aplicação consiste em uma plataforma com fins educacionais, com o objetivo de organizar e cadastrar estudantes, professores, disciplinas e turmas.
 
