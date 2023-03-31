@@ -1,16 +1,77 @@
-# Vue 3 + TypeScript + Vite
+# Controle Academico
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Sobre o projeto
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+Controle Academico é uma aplicação full stack web construída durante o aprendizado das tecnologias de Front e Back,durante meu estágio.
 
-## Type Support For `.vue` Imports in TS
+A aplicação consiste em uma plataforma com fins educacionais de organização e cadastro de estudantes, professores, disciplinas e turmas.
 
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
+## Layout mobile
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-1. Run `Extensions: Show Built-in Extensions` from VS Code's command palette, look for `TypeScript and JavaScript Language Features`, then right click and select `Disable (Workspace)`. By default, Take Over mode will enable itself if the default TypeScript extension is disabled.
-2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
+## Layout web
+![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJS
+- React Native
+- Apex Charts
+- Expo
+## Implantação em produção
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql
+
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
+
+## Front end web
+Pré-requisitos: npm / yarn
+
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
+
+# entrar na pasta do projeto front end web
+cd front-web
+
+# instalar dependências
+yarn install
+
+# executar o projeto
+yarn start
+```
+
+# Autor
+
+Wellington Mazoni de Andrade
+
+https://www.linkedin.com/in/wmazoni
+
