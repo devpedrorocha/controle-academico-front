@@ -4,9 +4,7 @@
 # Sobre o projeto
 
 
-Controle Acadêmico é uma aplicação full stack web construída durante o meu estágio para aprendizado das tecnologias de Front-end e Back-end. Desenvolvi ela com mais 3 integrantes do estágio mas participei de todas etapas da aplicação
-
-A aplicação consiste em uma plataforma com fins educacionais, com o objetivo de organizar e cadastrar estudantes, professores, disciplinas e turmas.
+Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu estágio para aprender tecnologias de front-end e back-end. Colaborei com outros três estagiários em todas as etapas do projeto. A aplicação é uma plataforma educacional que permite a organização e registro de alunos, professores, cursos e turmas
 
 ## Layout web
 ![Web 1]()
@@ -30,17 +28,13 @@ A aplicação consiste em uma plataforma com fins educacionais, com o objetivo d
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
 git clone https://github.com/devpedrorocha/controle-academico.git
 
-# entrar na pasta do projeto back end
-cd backend
 
 # executar o projeto
-./mvnw spring-boot:run
 ```
 
 ## Front end web
